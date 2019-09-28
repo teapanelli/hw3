@@ -2,7 +2,7 @@
 
 What code draws the blades of grass?
 
-    function draw() {
+    function draw() { 
     stroke(random(60, 70), 100, 90);
     line(x, height-10, x+random(-10, 10), height-10-random(h));
     noStroke();
