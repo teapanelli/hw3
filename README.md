@@ -15,7 +15,7 @@ What code makes the "lawnmower" come by? How often does it come by?
     h = 10;
     
 What's the point of the h variable?
-  Varies the line lengths by 10.
+        Varies the line lengths by 10.
   
 What does the -10 do in the second and fourth arguments of the line function, height-10-random(h) ? Why is it there?
-  Changes the x location of the point of the blades of grass.
+        Changes the x location of the point of the blades of grass.
