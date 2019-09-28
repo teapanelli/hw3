@@ -4,7 +4,7 @@ function setup() {
 }
 
 var x = 0;
-var h = 10;
+var h = 10; 
 
 function draw() {
   stroke(random(60, 70), 100, 90);
